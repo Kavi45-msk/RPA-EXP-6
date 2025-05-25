@@ -1,8 +1,8 @@
 # RPA-EXP-6
 Copy And Rename Files
 
-# Name : Hafeezul Deen S
-# Reg.No : 212223220028 
+# Name : Kavi M S
+# Reg.No : 212223220044
 
 ## Aim
 To create a UiPath workflow that copies all files from a source folder to a destination folder and renames them by appending a timestamp to each file name.
